@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.apollo.apollo-green-demo"
+    namespace = "com.apollo.apollogreendemo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.apollo.apollo-green-demo"
+        applicationId = "com.apollo.apollogreendemo"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
